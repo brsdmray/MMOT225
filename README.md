@@ -1,4 +1,5 @@
 # MMOT225
- Ödev paylaşımı için repo
- Ödev2 kişisel bilgiler  içerir.
+# Ödevler için repo
+# Ders Bulut Bilişim
+# Ders kodu:MMOT225
  
